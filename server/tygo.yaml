@@ -1,0 +1,5 @@
+packages:
+  - path: "github.com/colinkahn/weseq"
+    output_path: "../src/generated/types.ts"
+    type_mappings:
+      MessageType: '"update" | "sync"'
