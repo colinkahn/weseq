@@ -1,0 +1,3 @@
+packages:
+  - path: "github.com/colinkahn/weseq/types"
+    output_path: "../src/generated/types.ts"
